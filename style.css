@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: cyan;
+}
+canvas {
+  display: block;
+  margin-left: 750px;
+  margin-top: -500px;
+  border-radius: 25px;
+  border-width: 5px;
+  border-style: solid;
+  box-shadow: 8px 8px darkslategrey;
+}
+
+.fa-solid{
+font-size: 50px;
+}
+
+button{
+  margin-left: 900px;
+  margin-top: 750px;
+  box-shadow: 4px 4px darkslategrey;
+}
